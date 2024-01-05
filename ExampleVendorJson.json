@@ -3,11 +3,11 @@
     "name": "ExampleVendorDep",
     "version": "0.0.1",
     "frcYear": "2024",
-    "uuid": "Generate A Unique GUID https://guidgenerator.com/online-guid-generator.aspx and insert it here", This line is to purposely make this fail to parse
+    "uuid": "e6bced84-da2a-4bed-9f68-e64257e14060",
     "mavenUrls": [
         "ThisNeedsToBeTheRootMavenUrl"
     ],
-    "jsonUrl": "InsertSomeUrlHere",
+    "jsonUrl": "https://raw.githubusercontent.com/TylerSeiford/Test-Vendordep/2024/ExampleVendorJson.json",
     "javaDependencies": [
         {
             "groupId": "com.vendor.frc",

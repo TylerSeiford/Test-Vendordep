@@ -9,6 +9,7 @@ import edu.wpi.first.util.RuntimeLoader;
  * Demo class for loading the driver via JNI.
  */
 public class VendorJNI {
+  private static boolean testVar = false;
   static boolean libraryLoaded = false;
   static RuntimeLoader<VendorJNI> loader = null;
 
