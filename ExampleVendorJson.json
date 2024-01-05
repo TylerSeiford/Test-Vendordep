@@ -4,9 +4,7 @@
     "version": "0.0.1",
     "frcYear": "2024",
     "uuid": "e6bced84-da2a-4bed-9f68-e64257e14060",
-    "mavenUrls": [
-        "ThisNeedsToBeTheRootMavenUrl"
-    ],
+    "mavenUrls": [],
     "jsonUrl": "https://raw.githubusercontent.com/TylerSeiford/Test-Vendordep/2024/ExampleVendorJson.json",
     "javaDependencies": [
         {
